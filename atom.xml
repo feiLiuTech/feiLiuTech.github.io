@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LIU_FEI</title>
+  <title>流言飞语</title>
   
-  <subtitle>LIU_FEIの博客</subtitle>
-  <link href="/feiLiuTech.github.io/atom.xml" rel="self"/>
+  <subtitle>LF_Techの博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://feiliutech.github.io/"/>
-  <updated>2020-10-04T18:47:19.749Z</updated>
+  <updated>2020-10-05T07:24:50.477Z</updated>
   <id>https://feiliutech.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git学习笔记</title>
+    <link href="https://feiliutech.github.io/posts/a91eaa72.html"/>
+    <id>https://feiliutech.github.io/posts/a91eaa72.html</id>
+    <published>2020-10-04T15:05:14.000Z</published>
+    <updated>2020-10-05T07:24:50.477Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Git&quot;&gt;&lt;a href=&quot;#Git&quot; class=&quot;headerlink&quot; title=&quot;Git&quot;&gt;&lt;/a&gt;Git&lt;/h1&gt;&lt;h2 id=&quot;1、Git是什么？&quot;&gt;&lt;a href=&quot;#1、Git是什么？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Git" scheme="https://feiliutech.github.io/categories/Git/"/>
+    
+    
+      <category term="git" scheme="https://feiliutech.github.io/tags/git/"/>
+    
+      <category term="github" scheme="https://feiliutech.github.io/tags/github/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -129,7 +157,7 @@
     <link href="https://feiliutech.github.io/posts/e3e08109.html"/>
     <id>https://feiliutech.github.io/posts/e3e08109.html</id>
     <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2020-10-04T18:00:36.184Z</updated>
+    <updated>2020-10-05T08:29:40.267Z</updated>
     
     <summary type="html">
     

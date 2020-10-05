@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feiliutech.github.io/about/index.html</loc>
+    
+    <lastmod>2020-10-05T09:37:46.314Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://feiliutech.github.io/posts/e3e08109.html</loc>
+    
+    <lastmod>2020-10-05T08:29:40.267Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://feiliutech.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-10-05T07:42:41.997Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://feiliutech.github.io/posts/a91eaa72.html</loc>
+    
+    <lastmod>2020-10-05T07:24:50.477Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://feiliutech.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2020-10-04T18:47:19.749Z</lastmod>
@@ -16,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/friends/index.html</loc>
+    <loc>https://feiliutech.github.io/contact/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.187Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/contact/index.html</loc>
+    <loc>https://feiliutech.github.io/friends/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.187Z</lastmod>
     
@@ -38,13 +66,6 @@
   
   <url>
     <loc>https://feiliutech.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-10-04T18:00:36.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://feiliutech.github.io/categories/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.186Z</lastmod>
     
@@ -72,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/about/index.html</loc>
-    
-    <lastmod>2020-10-04T18:00:36.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://feiliutech.github.io/posts/e3e08109.html</loc>
-    
-    <lastmod>2020-10-04T18:00:36.184Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://feiliutech.github.io/List/movies/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.183Z</lastmod>
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/List/tools/index.html</loc>
+    <loc>https://feiliutech.github.io/List/music/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.183Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/List/music/index.html</loc>
+    <loc>https://feiliutech.github.io/List/tools/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.183Z</lastmod>
     
@@ -184,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
+    <loc>https://feiliutech.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.178Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://feiliutech.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    <loc>https://feiliutech.github.io/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2020-10-04T18:00:36.178Z</lastmod>
     
