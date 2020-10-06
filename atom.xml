@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>流言飞语</title>
+  <title>LF_Techの博客</title>
   
   <subtitle>LF_Techの博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://feiliutech.github.io/"/>
-  <updated>2020-10-05T07:24:50.477Z</updated>
+  <updated>2020-10-06T10:22:49.748Z</updated>
   <id>https://feiliutech.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://feiliutech.github.io/posts/a91eaa72.html"/>
     <id>https://feiliutech.github.io/posts/a91eaa72.html</id>
     <published>2020-10-04T15:05:14.000Z</published>
-    <updated>2020-10-05T07:24:50.477Z</updated>
+    <updated>2020-10-06T10:22:49.748Z</updated>
     
     <summary type="html">
     
